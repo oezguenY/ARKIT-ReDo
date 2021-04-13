@@ -11,8 +11,8 @@
 		E349CEB1262604B2009DDA9D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E349CEB0262604B2009DDA9D /* SceneDelegate.swift */; };
 		E349CEB3262604B2009DDA9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E349CEB2262604B2009DDA9D /* ViewController.swift */; };
 		E349CEB6262604B2009DDA9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E349CEB4262604B2009DDA9D /* Main.storyboard */; };
-		E349CEB8262604B6009DDA9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E349CEB7262604B6009DDA9D /* Assets.xcassets */; };
 		E349CEBB262604B6009DDA9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E349CEB9262604B6009DDA9D /* LaunchScreen.storyboard */; };
+		E349CEEF26261D0D009DDA9D /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = E349CEEE26261D0D009DDA9D /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,9 +21,9 @@
 		E349CEB0262604B2009DDA9D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E349CEB2262604B2009DDA9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E349CEB5262604B2009DDA9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E349CEB7262604B6009DDA9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E349CEBA262604B6009DDA9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E349CEBC262604B6009DDA9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E349CEEE26261D0D009DDA9D /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +60,9 @@
 				E349CEB0262604B2009DDA9D /* SceneDelegate.swift */,
 				E349CEB2262604B2009DDA9D /* ViewController.swift */,
 				E349CEB4262604B2009DDA9D /* Main.storyboard */,
-				E349CEB7262604B6009DDA9D /* Assets.xcassets */,
 				E349CEB9262604B6009DDA9D /* LaunchScreen.storyboard */,
 				E349CEBC262604B6009DDA9D /* Info.plist */,
+				E349CEEE26261D0D009DDA9D /* art.scnassets */,
 			);
 			path = "ARKIT FromScratch";
 			sourceTree = "<group>";
@@ -125,7 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E349CEBB262604B6009DDA9D /* LaunchScreen.storyboard in Resources */,
-				E349CEB8262604B6009DDA9D /* Assets.xcassets in Resources */,
+				E349CEEF26261D0D009DDA9D /* art.scnassets in Resources */,
 				E349CEB6262604B2009DDA9D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
